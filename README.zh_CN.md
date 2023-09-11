@@ -11,7 +11,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -82,7 +82,7 @@
 - [VirtualSMC.kext 1.3.2](https://github.com/acidanthera/VirtualSMC)
 - [WhateverGreen.kext 1.6.6](https://github.com/acidanthera/WhateverGreen)
 - [NVMeFix.kext 1.1.1](https://github.com/acidanthera/NVMeFix)
-- [AppleALC.kext 1.8.4](https://github.com/acidanthera/AppleALC)
+- [AppleALC.kext 1.8.5](https://github.com/acidanthera/AppleALC)
 - [IntelMausi.kext 1.0.7](https://github.com/acidanthera/IntelMausi)
 
 
