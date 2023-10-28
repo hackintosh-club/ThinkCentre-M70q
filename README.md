@@ -1,5 +1,7 @@
 ## ThinkCentre-M70q Hackintosh OpenCore EFI
 
+![image](Screenshot/m70q.jpg)
+
 
 ### [简体中文](README.zh_CN.md)
 
